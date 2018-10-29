@@ -1,3 +1,5 @@
+// Creating an express route implemented with MongoDB
+
 const express = require("express");
 const app = express();  // create an express app
 const bodyParser = require ("body-parser");
